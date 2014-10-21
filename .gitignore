@@ -1,0 +1,7 @@
+.classpath
+.settings
+.project
+download.tmp
+/bin
+/target
+/src/test/resources/runabove.properties
