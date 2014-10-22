@@ -15,6 +15,11 @@ Benefits :
 The Runabove API Console is available [here](https://manager.runabove.com/console).
 
 
+
+[![Build 
+Status](https://travis-ci.org/runabove/java-runabove.svg?branch=master)](https://travis-ci.org/runabove/java-runabove)
+
+
 Quickstart
 ----------
 
